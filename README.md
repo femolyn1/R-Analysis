@@ -1,5 +1,5 @@
 # R-Analysis
-PART 1
+# PART 1
 
 The statistics below was obtained from the statistical analysis:
 
@@ -25,15 +25,15 @@ In regard to the slope of our linear model , it is not considered to be zero due
 From our linear regression model, the r-squared value is 0.7149, which means that roughly 70% of all mpg predictions will be correct when using this linear model.
 
 
-PART 2
+# PART 2
 The summary table shows the statistics  table for the suspension coil's PSI for the various lots. As shown in the table, the variance of the suspension coils at lot 3 was 220 PSI which exceeds the 100 PSI design specification. This shows that some level of inconsistency exist accross the manufacturing lots. 
 
-PART 3
+# PART 3
 A one sample t-test was used to determine if the suspension coil’s pound-per-inch results are statistically different from the mean population results of 1,500 pounds per inch and a p-value  of 0.3911 was obtained.
 Assuming our significance level was the common 0.05 percent, the obtained p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and this suggests that the two means are statistically similar.
 
 
-PART 4: SHORT STATISTICAL STUDY
+# PART 4: SHORT STATISTICAL STUDY
 
 MechaCar's long time competitor is MetroCar. Consumers are interested in the difference in fuel efficiency based on weight and horse power(hp)
 We will use a two way ANOVA test to determine this and use the hypothesis below:
