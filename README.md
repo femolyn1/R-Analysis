@@ -3,12 +3,17 @@ PART 1
 
 The statistics below was obtained from the statistical analysis:
 
-                   Estimate Std. Error t value Pr(>|t|)    
+                   
 (Intercept)      -1.040e+02  1.585e+01  -6.559 5.08e-08 ***
+
 vehicle_length    6.267e+00  6.553e-01   9.563 2.60e-12 ***
-vehicle_weight    1.245e-03  6.890e-04   1.807   0.0776 .  
-spoiler_angle     6.877e-02  6.653e-02   1.034   0.3069    
+
+vehicle_weight    1.245e-03  6.890e-04   1.807   0.0776 . 
+
+spoiler_angle     6.877e-02  6.653e-02   1.034   0.3069  
+
 ground_clearance  3.546e+00  5.412e-01   6.551 5.21e-08 ***
+
 AWD              -3.411e+00  2.535e+00  -1.346   0.1852  
 
 From the information above, the low Pr(>|t|) value of the vehicle length and ground clearance shows that they are unlikely to provide a random amount of variance to the mpg values in the data set. Both variables have a significant impact on the dependent variable with significance level below 0.001 or 99.9%. 
