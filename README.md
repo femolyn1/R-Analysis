@@ -48,10 +48,10 @@ The dependent variable is numerical and continuous, and the independent variable
 The dependent variable is considered to be normally distributed.
 The variance among each group should be very similar.
 
-Required Data: 
+## Required Data: 
 We will need to obtain the weights and horse power information for the various models of MechaCar and MetroCar vehicles for the past 5 years. Using the aov() function, our dependent variable will be fuel_efficiency while the independent variables will be weight and hp. 
 
-Analysis:
+## Analysis:
 
 If the P-value is lower than a significance level of 0.05, we have enough reason to reject the null hypothesis and accept that there is a significant difference in the fuel vehicle fuel efficiency for both manufacturer. However, if the P-value is higher than the desired significance level(0.05), then we will accept the null hypothesis and reject the alternate hypothesis. 
 
